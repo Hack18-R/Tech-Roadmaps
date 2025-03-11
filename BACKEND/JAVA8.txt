@@ -96,6 +96,8 @@
 - **Different Ways to Create Java Methods**
   - Instance Method
   - Static Method
+  - Instance Block
+  - Static Block
 
 - **Method Signature**
 - **Naming a Method**
