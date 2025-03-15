@@ -107,11 +107,9 @@
         - Passing Parameters to a Method
         - Memory Allocation for Method Calls
         - How to Call a Method in Java
-            - Abstract Method
             - Predefined Method
             - Static Method
-        - Methods Returning a Value
-        - Methods Not Returning a Value
+
 
 9. Java Arrays
     - Basics of Arrays
