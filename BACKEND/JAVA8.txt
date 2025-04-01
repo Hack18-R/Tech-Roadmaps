@@ -169,6 +169,7 @@
             - Using clone()
             - Deserialization
             - Anonymous Objects in Java
+            - Inner Class(Anonymous Class)
 
     - Constructors
         - What are Constructors in Java?
