@@ -1,11 +1,7 @@
 
 1. Introduction to Java
     - Key Features of Java
-        - Platform Independent
     - How Java Code Executes
-        - Creating the Program
-        - Compiling the Program
-        - Running the Program
     - JVM, JRE & JDK
 
 
@@ -13,13 +9,8 @@
     - Structure of Java Program
     - Comments in Java
     - Case Sensitivity
-    - Source File Name
-        - Class Names
-        - Method Names
-        - Java Keywords
+    - Java Keywords
     - Identifiers in Java
-        - Rules for Naming Java Identifiers
-
     - Access Modifiers in Java
         - Default
         - Private
@@ -30,16 +21,13 @@
 3. Java Data Types
     - Primitive Data Types
     - Non-Primitive Data Types
-
-    - Java Primitive Wrappers
-        - Introduction to Wrapper Classes
-            - Integer, Double, Boolean, etc.
-        - Autoboxing (Primitive → Wrapper Conversion)
-        - Unboxing (Wrapper → Primitive Conversion)
-        - Important Methods:
-            - valueOf()
-            - parseInt(), parseDouble()
-            - toString()
+    - Implicit and Explicit conversions  
+    - Wrappers Classes  
+       - Autoboxing and Unboxing  
+       - Methods  
+           - valueOf()  
+           - parseInt(), parseDouble()  
+           - toString()  
 
 
 4. Java Variables
@@ -49,7 +37,6 @@
         - Local Variables
         - Instance Variables
         - Static Variables
-
     - Scope of Variables
         - Instance Scope
         - Static Scope
@@ -69,6 +56,7 @@
 
 6. User Input in Java
     - User Input using Scanner Class
+    - Java I/O (Input and Output)
 
 
 7. Java Control Flow
@@ -77,7 +65,6 @@
         - Nested If Statement
         - If-Else-If Ladder
     - Switch Statement
-
     - Loops
         - For Loop
         - Nested For Loop
@@ -92,24 +79,15 @@
         - Predefined Methods
         - User-defined Methods
             - Types of User-defined Methods
-
-    - Different Ways to Create Java Methods
-        - Instance Method
-        - Static Method
-        - Instance Block
-        - Static Block
-
     - Method Signature
     - Naming a Method
-        - Rules for Naming a Method
-
     - Method Calling
         - Passing Parameters to a Method
         - Memory Allocation for Method Calls
         - How to Call a Method in Java
             - Predefined Method
             - Static Method
-
+            - Instance Method
 
 9. Java Arrays
     - Basics of Arrays
@@ -117,14 +95,7 @@
     - Accessing Elements of an Array
     - Change an Array Element
     - Array Length
-
     - How to Initialize an Array
-        - Fixed Size with Default Values
-        - With Specific Values
-        - Using Curly Braces {}
-        - With Non-Default Values
-        - Using Loops
-
     - Types of Arrays in Java
         - Single-Dimensional Arrays
         - Multi-Dimensional Arrays
@@ -135,12 +106,10 @@
     - Ways to Create a String
         - String Literals
         - Using new Keyword
-
     - Why Strings are Immutable
     - String Pool
     - Memory Allocation in String
     - String Tokenizer
-
     - String Methods
         - Concatenation
         - Substring
@@ -148,14 +117,9 @@
             - equals(), compareTo(), equalsIgnoreCase()
         - length(), charAt(), indexOf(), contains()
         - toUpperCase(), toLowerCase(), trim(), replace(), split()
-
-    - StringBuffer Class in Java
-        - Features of StringBuffer
-        - Methods of StringBuffer
-
-    - StringBuilder Class in Java
-        - Important Points
-        - Methods of StringBuilder
+    - StringBuffer Class
+    - StringBuilder Class
+       
 
 11. Java OOP Concepts
     - Classes and Objects
@@ -169,7 +133,7 @@
             - Using clone()
             - Deserialization
             - Anonymous Objects in Java
-            - Inner Class(Anonymous Class)
+            - Anonymous Class 
 
     - Constructors
         - What are Constructors in Java?
@@ -242,10 +206,6 @@
 
 
 13. Java Collections
-    - Collections Class
-    - Collection Interface in Java
-        - Collection Interface Declaration
-
     - List Interface
         - ArrayList
         - LinkedList
@@ -264,8 +224,6 @@
         - HashMap
         - LinkedHashMap
         - Hashtable
-
-    - SortedSet Interface
     - Comparator & Comparable Interfaces
     - Iterator
 
@@ -275,23 +233,15 @@
     - Types of Java Exceptions
         - Checked Exception
         - Unchecked Exception
-        - User-Defined Exceptions
-
+        - Errors
     - How JVM Handles Exceptions
     - Try-Catch Block
-        - Syntax
-        - Internal Working
-
     - final, finally, finalize()
     - throw & throws in Java
-
     - User-defined Custom Exception in Java
         - Types of Custom Exceptions
             - Checked Exceptions
             - Unchecked Exceptions
-
-    - Chained Exceptions
-    - Exception Handling with Method Overriding
 
 
 15. Java Multithreading
@@ -299,10 +249,8 @@
     - Two Ways to Implement Multithreading
         - Using Thread class
         - Using Runnable Interface
-
     - Special Methods of Threads
         - start(), suspend(), stop(), wait(), notify(), sleep(), join()
-
     - Thread Priorities
     - Java Main Thread
     - Thread States in Java
@@ -310,55 +258,28 @@
     - Daemon Threads
     - Thread Safety
     - Thread Pool
-
-
-16. Java Synchronization
-    - Importance of Thread Synchronization
+    - Thread Synchronization
     - Method & Block Synchronization
-    - Deadlock Prevention and Avoidance
-    - Lock vs Monitor in Concurrency
     - Reentrant Locks
 
 
-17. Java Memory Allocation
+16. Java Memory Allocation
     - Java Memory Management
     - Memory Areas Allocated by JVM
     - Garbage Collection
+    - finalize() Method 
 
 
-18. Java Advanced Features
+17. Java Advanced Features
     - Lambda Expressions
-        - Syntax & Usage
-        - Functional Interface
-        - Scope & Variables
-        - Parameters
-
     - Streams API
-        - Stream Creation
-            - From Collections & Arrays
         - Intermediate & Terminal Operations
             - Filtering, Mapping, Reducing
         - Collectors
             - Collecting to Lists, Sets, Maps
-
     - Functional Interfaces
-        - Predicate
-        - Function
-        - Supplier
-        - Consumer
-        - BiPredicate, BiConsumer, BiFunction
-
     - Optional Class
-        - Usage & Benefits
-        - Common Methods
-            - isPresent(), ifPresent(), orElse()
-
     - Date & Time API
-        - LocalDate, LocalTime, LocalDateTime
-        - Creating & Manipulating Dates
-        - ZonedDateTime & Time Zones
-        - Duration and Period
-        - Measuring Time
 
 
 19. Java Design Patterns 
