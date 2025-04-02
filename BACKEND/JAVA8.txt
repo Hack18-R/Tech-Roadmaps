@@ -261,6 +261,9 @@
     - Thread Synchronization
     - Method & Block Synchronization
     - Reentrant Locks
+    - Volatile Keyword
+    - Atomic Variables 
+    - ThreadLocal 
 
 
 16. Java Memory Allocation
