@@ -177,14 +177,10 @@
         - Dynamic Method Dispatch
         - Upcasting & Downcasting
 
-    - Instance & Static Members
-        - Instance Members
-        - Static Members
-        - Static Blocks
-
+    - Instance & Static Blocks
     - this and super Keywords
-        - this() and super()
-        - Constructor Chaining
+    - this() and super()
+    - Constructor Chaining
 
     - Java Packages
         - Built-in Packages
