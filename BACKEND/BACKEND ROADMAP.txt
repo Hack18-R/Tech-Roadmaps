@@ -7,7 +7,13 @@
 - Exception Handling & File Handling  
 - Multithreading & Concurrency  
 - Java 8+ Features (Streams, Lambda, Functional Interfaces)  
-- JVM Internals (Garbage Collection, Memory Management, Performance Optimization)  
+- JVM Internals (Garbage Collection, Memory Management, Performance Optimization)
+- JDBC(Java DataBase Connectivity)
+    - How to load a JDBC driver
+    - How to create a Connection to a DB
+    - How to write and execute simple SQL queries
+    - Handling ResultSet
+    - Proper resource closing (try-with-resources or finally block)  
 
 
 ## **2️. Basic Networking – Computer Networks**
