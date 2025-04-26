@@ -10,7 +10,10 @@
 - JVM Internals (Garbage Collection, Memory Management, Performance Optimization)  
 
 
-## **2️. Basic Networking – Computer Networks**  
+## **2️. Basic Networking – Computer Networks**
+-  What is a Network?
+- Network Components?
+- Types of Networks
 - OSI & TCP/IP Models  
 - HTTP vs HTTPS  
 - TCP vs UDP  
@@ -19,7 +22,7 @@
 - WebSockets (for real-time communication)  
 
 
-## **3. Databases – SQL & NoSQL**  
+## **3. Databases – SQL**  
 ### **SQL (Relational Databases - MySQL/PostgreSQL)**  
 - Basics: CRUD Operations, Joins, Views, Indexing  
 - Transactions (ACID properties)  
@@ -27,19 +30,12 @@
 - Query Optimization  
 - Connection Pooling & Performance Tuning  
 
-### **NoSQL (MongoDB, Redis)**  
-- Difference between SQL vs NoSQL  
-- MongoDB Basics (Collections, Documents, Aggregation)  
-- Redis for Caching  
-- Memcached (Alternative to Redis)  
-
 
 ## **4. Version Control – Git & GitHub**  
 - Git Basics: Init, Clone, Commit, Push, Pull  
 - Branching, Merging, Rebase  
 - Handling Merge Conflicts  
 - GitHub Actions for CI/CD 
-
 
 
 ## **5. Backend Framework – Spring Framework**  
