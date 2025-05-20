@@ -1,0 +1,295 @@
+
+1. Introduction to DSA
+    - What is a Data Structure?
+    - What is an Algorithm?
+
+
+2. Complexity Analysis
+    - Time Complexity
+    - Space Complexity
+
+    - Types of Complexity
+        - Best Case
+        - Worst Case
+        - Average Case
+
+    - Big O Notation
+        - O(1) — Constant Time
+        - O(log n) — Logarithmic Time
+        - O(n) — Linear Time
+        - O(n log n) — Linearithmic Time
+        - O(n²) — Quadratic Time
+        - O(2ⁿ) — Exponential Time
+        - O(n!) — Factorial Time
+
+
+3. Arrays and Strings
+    3.1 Arrays
+        - What is an array?
+        - Array representation in memory
+
+        - Types of Arrays
+            - 1D Array
+            - 2D Array
+            - Multi-dimensional Arrays
+
+        - Array Operations
+            - Insertion
+            - Deletion
+            - Accessing Elements
+
+        - Searching
+            - Linear Search
+            - Binary Search
+
+        - Sorting
+            - Bubble Sort
+            - Selection Sort
+            - Insertion Sort
+
+        - Advanced Array Techniques
+            - Two-pointer Technique
+            - Sliding Window Technique
+            - Array Rotation
+            - Merge Arrays
+
+
+    3.2 Strings
+        - String Representation in Memory
+            - Null-terminated Strings
+            - Immutable vs Mutable Strings
+
+        - String Operations
+            - Concatenation
+            - Comparison
+            - Length
+            - Substring
+
+        - String Searching Algorithms
+            - Naive Pattern Matching
+            - Knuth-Morris-Pratt (KMP) Algorithm
+            - Rabin-Karp Algorithm
+
+    3.3 Hashing
+        - What is Hashing?
+        - Hash Functions and Properties
+        - Collision Handling Techniques
+            - Chaining
+            - Open Addressing (Linear Probing, Quadratic Probing, Double Hashing)
+
+        - Applications of Hashing
+            - Hash Tables / Hash Maps
+            - Counting Frequencies
+            - Anagrams Problem
+            - Detecting Duplicates
+            - Caching and Memoization
+
+        - Implementing Hash Maps
+        - Common Problems Using Hashing
+
+
+4. Searching Algorithms
+    - Linear Search
+    - Binary Search
+    - Jump Search
+    - Exponential Search
+    - Ternary Search
+
+
+5. Sorting Algorithms
+    5.1 Simple Sorting Algorithms
+        - Bubble Sort
+        - Selection Sort
+        - Insertion Sort
+
+    5.2 Efficient Sorting Algorithms
+        - Merge Sort (Divide and Conquer)
+        - Quick Sort (Divide and Conquer)
+        - Heap Sort
+
+    5.3 Non-Comparison Based Sorts
+        - Counting Sort
+        - Radix Sort
+        - Bucket Sort
+
+
+6. Stack and Queue
+    6.1 Stack
+        - Stack Operations
+            - Push
+            - Pop
+            - Peek
+
+        - Stack Implementation
+            - Using Array
+            - Using Linked List
+
+        - Applications of Stack
+            - Infix, Prefix, Postfix Notation
+            - Balanced Parentheses Check
+            - Function Call Stack (Recursion)
+            - Undo/Redo Functionality
+
+    6.2 Queue
+        - Queue Operations
+            - Enqueue
+            - Dequeue
+            - Peek
+
+        - Types of Queues
+            - Linear Queue
+            - Circular Queue
+            - Priority Queue
+
+        - Queue Implementation
+            - Using Arrays
+            - Using Linked Lists
+
+        - Applications of Queue
+            - Breadth-First Search (BFS)
+            - Job Scheduling
+            - Round Robin Scheduling
+
+
+7. Linked List
+    7.1 Introduction to Linked Lists
+        - Singly Linked List
+        - Doubly Linked List
+        - Circular Linked List
+
+    7.2 Linked List Operations
+        - Insertion
+        - Deletion
+        - Traversal
+        - Search
+        - Reverse a Linked List
+        - Detecting a Cycle in Linked List 
+
+    7.3 Advanced Topics
+        - Merge Two Sorted Linked Lists
+        - Middle of a Linked List
+        - Remove N-th Node from End of Linked List
+
+
+8. Tree Data Structures
+    8.1 Introduction to Trees
+        - Basic Terminology
+            - Node
+            - Root
+            - Child
+            - Parent
+            - Leaf
+            - Height
+            - Depth
+
+    8.2 Types of Trees
+        - Binary Tree
+        - Binary Search Tree (BST)
+        - AVL Tree
+        - Red-Black Tree
+        - Heap (Min-Heap, Max-Heap)
+        - Trie
+        - Segment Tree
+
+    8.3 Tree Traversals
+        - Preorder Traversal
+        - Inorder Traversal
+        - Postorder Traversal
+        - Level Order Traversal (BFS)
+
+    8.4 Operations on Trees
+        - Insertion
+        - Deletion
+        - Searching
+        - Balancing Trees (AVL, Red-Black)
+        - Lowest Common Ancestor (LCA)
+
+
+9. Graph Data Structures
+    9.1 Introduction to Graphs
+        - Representation
+            - Adjacency Matrix
+            - Adjacency List
+        - Directed vs Undirected Graphs
+        - Weighted vs Unweighted Graphs
+
+    9.2 Graph Traversal
+        - Depth-First Search (DFS)
+        - Breadth-First Search (BFS)
+
+    9.3 Graph Algorithms
+        - Dijkstra’s Shortest Path Algorithm
+        - Bellman-Ford Algorithm
+        - Floyd-Warshall Algorithm
+        - Topological Sorting
+        - Kruskal’s Algorithm (Minimum Spanning Tree)
+        - Prim’s Algorithm (Minimum Spanning Tree)
+
+
+10. Divide and Conquer Algorithms
+    - Concept and Approach
+    - Common Algorithms
+        - Merge Sort
+        - Quick Sort
+        - Binary Search
+        - Matrix Multiplication
+        - Closest Pair of Points
+
+
+11. Greedy Methodology
+    11.1 Introduction to Greedy Algorithms
+        - Greedy Choice Property
+        - Optimal Substructure
+
+    11.2 Greedy Problems
+        - Activity Selection Problem
+        - Fractional Knapsack Problem
+        - Huffman Coding
+        - Job Sequencing Problem
+
+
+12. Recursion & Backtracking
+    12.1 Understanding Recursion
+        - Base Case
+        - Recursive Case
+        - Stack Overflow Issues
+
+    12.2 Common Recursion Problems
+        - Factorial
+        - Fibonacci Sequence
+        - Tower of Hanoi
+        - Permutations and Combinations
+
+    12.3 Introduction to Backtracking
+        - Backtracking Principle
+        - When to use Backtracking
+
+    12.4 Backtracking Problems
+        - N-Queens Problem
+        - Rat in a Maze
+        - Subset Sum Problem
+        - Sudoku Solver
+
+
+13. Dynamic Programming (DP)
+    13.1 Introduction to DP
+        - Optimal Substructure
+        - Overlapping Subproblems
+        - Memoization vs Tabulation
+
+    13.2 Basic DP Problems
+        - Fibonacci Sequence (Memoization)
+        - Knapsack Problem
+            - 0/1 Knapsack
+            - Fractional Knapsack
+        - Longest Common Subsequence (LCS)
+        - Longest Increasing Subsequence (LIS)
+
+    13.3 Advanced DP Problems
+        - Matrix Chain Multiplication
+        - Rod Cutting Problem
+        - Coin Change Problem
+        - Edit Distance Problem
+
+
+
