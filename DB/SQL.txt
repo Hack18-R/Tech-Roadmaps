@@ -1,123 +1,137 @@
 
-### **1. Introduction to SQL**
+1. Introduction to SQL
    - What is SQL?
    - History of SQL
-   - SQL vs NoSQL 
-   - Data vsDatabase
+   - SQL vs NoSQL
+   - Data vs Database
    - What is DBMS?
+   - Features and Uses
 
-### **2. Basic SQL Syntax**
+2. SQL Basic Syntax
    - SQL Keywords
-   - SQL Statements (SELECT, INSERT, UPDATE, DELETE)
+   - SQL Operators
+   - SQL Statements: SELECT, INSERT, UPDATE, DELETE
    - Semicolons in SQL
    - Case Sensitivity in SQL
 
-### **3. SQL Data Types**
-   - Numeric Types (INT, DECIMAL, FLOAT)
-   - String Types (VARCHAR, CHAR, TEXT)
-   - Date and Time Types (DATE, TIME, DATETIME, TIMESTAMP)
+3. SQL Data Types
+   - Numeric Types: INT, DECIMAL, FLOAT
+   - String Types: VARCHAR, CHAR, TEXT
+   - Date and Time Types: DATE, TIME, DATETIME, TIMESTAMP
    - Boolean Types
 
-### **4. Data Definition Language (DDL)**
+4. Data Definition Language (DDL)
    - CREATE DATABASE
    - CREATE TABLE
    - ALTER TABLE
-   - TRUNCATE TABLE vs DELETE vs DROP
    - DROP DATABASE / DROP TABLE
-   - Constraints
-     - Primary Key, Foreign Key, Unique, Not Null,Check ,Default
-  
+   - TRUNCATE TABLE vs DELETE vs DROP
+   - Viewing Table Info: SHOW, DESCRIBE
+   - Constraints:
+     - PRIMARY KEY
+     - FOREIGN KEY
+     - UNIQUE
+     - NOT NULL
+     - CHECK
+     - DEFAULT
 
-### **5. Basic Queries (DML)**
+5. Basic Queries and Data Manipulation (DML)
    - SELECT Statement
-   - Filtering Results (WHERE clause)
-   - Sorting Results (ORDER BY)
-   - Limiting Results (LIMIT, TOP)
+   - Filtering with WHERE Clause
+   - Sorting with ORDER BY
+   - Limiting Results: LIMIT, TOP
    - Column Aliases (AS)
+   - INSERT INTO (Adding Data)
+   - UPDATE (Modifying Data)
+   - DELETE (Removing Data)
 
-### **6. Aggregate Functions**
+6. Aggregate Functions
    - COUNT, SUM, AVG, MIN, MAX
    - GROUP BY Clause
    - HAVING Clause (Filtering after GROUP BY)
 
-### **7. Joins**
+7. Joins (Multi-Table Queries)
    - INNER JOIN
    - LEFT JOIN (LEFT OUTER JOIN)
    - RIGHT JOIN (RIGHT OUTER JOIN)
+   - FULL OUTER JOIN
    - SELF JOIN
    - CROSS JOIN
 
-### **8. Subqueries**
+8. Subqueries
    - Subquery in SELECT
    - Subquery in WHERE
    - Subquery in FROM
-   - Correlated vs Non-correlated Subqueries
+   - Correlated vs Non-Correlated Subqueries
 
-### **9. Data Modification (DML)**
-   - INSERT INTO (Adding data)
-   - UPDATE (Modifying data)
-   - DELETE (Removing data)
+9. Data Integrity
+   - What is Data Integrity?
+   - Types of Integrity (Entity, Domain, Referential)
+   - Cascading DELETE and UPDATE
 
-### **10. Data Integrity**
-   - What is Data Integrity
-   - Types of Data Integrity
-   - Cascading Deletes/Updates
+10. Indexes
+    - What are Indexes?
+    - Creating Indexes
+    - Types: Unique Index, Composite Index
+    - Performance Considerations
 
-### **11. Indexes**
-   - What are Indexes?
-   - Creating Indexes
-   - Types of Indexes (Unique, Composite)
-   - Performance Considerations
+11. Transactions (TCL)
+    - What is a Transaction?
+    - COMMIT and ROLLBACK
+    - SAVEPOINT
+    - ACID Properties (Atomicity, Consistency, Isolation, Durability)
 
-### **12. Transactions (TCL)**
-   - What is a Transaction?
-   - COMMIT and ROLLBACK
-   - SAVEPOINT
-   - ACID Properties (Atomicity, Consistency, Isolation, Durability)
+12. Views
+    - What are Views?
+    - Creating Views
+    - Using Views in Queries
+    - Updatable vs Non-Updatable Views
 
-### **13. Views (DDL)**
-   - What are Views?
-   - Creating Views
-   - Using Views in Queries
-   - Updatable vs Non-updatable Views
+13. Stored Procedures and Functions
+    - What is a Stored Procedure?
+    - Creating Stored Procedures
+    - Input and Output Parameters
+    - User-Defined Functions (UDFs)
+    - Using Functions in SQL
 
-### **14. Stored Procedures and Functions (DDL)**
-   - What is a Stored Procedure?
-   - Creating Stored Procedures
-   - Input and Output Parameters
-   - Using Functions in SQL
+14. Triggers
+    - What are Triggers?
+    - Creating Triggers
+    - Types of Triggers: BEFORE, AFTER, INSTEAD OF
 
-### **15. Triggers (DDL)**
-   - What are Triggers?
-   - Creating Triggers
-   - Types of Triggers (BEFORE, AFTER, INSTEAD OF)
+15. Normalization and Denormalization
+    - What is Normalization?
+    - 1NF, 2NF, 3NF
+    - Denormalization
+    - ER Diagrams and Schema Design
 
-### **16. Normalization and Denormalization**
-   - What is Normalization?
-   - First, Second, and Third Normal Forms (1NF, 2NF, 3NF)
-   - Denormalization
-   - ER Diagram and Schema
+16. Window Functions
+    - What are Window Functions?
+    - OVER() Clause and PARTITION BY
+    - ROW_NUMBER(), RANK(), DENSE_RANK()
+    - LEAD(), LAG(), NTILE()
+    - Difference: Aggregate vs Window Functions
 
-### **17. Window Functions**
-   - What are Window Functions?
-   - Difference between Aggregate and Window Functions
-   - Using `OVER()` Clause
-   - Window Functions (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LEAD()`, `LAG()`, `NTILE()`)
-   - Partitioning and Ordering with Window Functions
+17. Query Optimization
+    - What is Query Optimization?
+    - Index Usage and Optimization
+    - Avoiding Full Table Scans
+    - Optimizing Joins and Subqueries
+    - Using LIMIT and Filtering Early
+    - Query Plan Analysis (EXPLAIN)
 
-### **18. Query Optimization **
-   - What is Query Optimization?
-   - Index Usage and Optimization
-   - Avoiding Full Table Scans
-   - Optimizing Joins and Subqueries
-   - Using LIMIT and Filtering Early
+18. Permissions (DCL)
+    - GRANT and REVOKE Statements
+    - Privileges: SELECT, INSERT, UPDATE, DELETE
 
-### **19.  Permissions (DCL)**
-   - `GRANT` and `REVOKE` Statements
-   - Privileges: SELECT, INSERT, UPDATE, DELETE
+19. Prepared Statements and Security
+    - What are Prepared Statements?
+    - Preventing SQL Injection
+    - Using Prepared Statements in Java (JDBC)
 
-### **20. Prepared Statements**
-   - What are Prepared Statements?
-   - Preventing SQL Injection
-   - Using Prepared Statements in Java (JDBC)
-
+20. Advanced SQL Topics
+    - CASE Statements
+    - Common Table Expressions (CTEs)
+    - Temporary Tables
+    - Recursive Queries
+    - JSON Support in SQL
