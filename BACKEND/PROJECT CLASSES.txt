@@ -1,0 +1,29 @@
+
+### **Normal Java Project (without Spring)**
+
+1. **Model Classes**
+2. **Service Classes**
+3. **Database Access Classes**
+4. **Main Class**
+
+
+### **Spring-based Project (Spring Boot)**
+
+1. **Model Classes**
+2. **Repository Interfaces**
+3. **Service Classes**
+4. **Controller Classes**
+5. **Configuration Classes**
+6. **Application Class**
+7. **DTO Classes**
+
+
+* **Additional Classes for Both Normal Java and Spring Projects: **
+
+  * Exception Handling Classes
+  * Utility Classes
+  * Validation Classes
+  * Security Classes (Spring Boot)
+  * Configuration Files (Spring Boot)
+  * Test Classes
+
