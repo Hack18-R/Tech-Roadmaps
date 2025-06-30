@@ -1,0 +1,75 @@
+
+1. Git Basics (Beginner Level)
+
+- Learn the core concepts and commands to start using Git effectively:
+    - What is Git?
+    - Version control systems overview
+    - Installing Git on your system
+    - Git configuration (`git config`) — username, email
+    - Initialize a Git repository (`git init`)
+    - Understanding the working directory, staging area, and repository
+
+    Basic Commands:
+        - `git status` — check repo status
+        - `git add` — stage files
+        - `git commit` — save changes
+        - `git log` — view commit history
+        - `git diff` — see changes
+
+        - Ignoring files with `.gitignore`
+        - Understanding snapshots vs diffs
+
+
+2. Remote Repositories (Beginner - Intermediate)
+
+- Learn how to work with remotes like GitHub/GitLab/Bitbucket:
+    - What is a remote repository?
+    - Cloning a repo (`git clone`)
+    - Connecting a local repo to remote (`git remote add`)
+    - Pushing changes (`git push`)
+    - Pulling changes (`git pull`) and fetching (`git fetch`)
+    - Understanding branches and the default branch (`main` or `master`)
+    - Creating and switching branches (`git branch`, `git checkout`, `git switch`)
+
+
+3. Branching & Merging (Intermediate)
+
+- Handle multiple lines of development and merge changes:
+    - Branching strategies (feature branches)
+    - Merging branches (`git merge`)
+    - Resolving merge conflicts
+    - Fast-forward vs recursive merge
+    - Deleting branches locally and remotely:
+        - `git branch -d`
+        - `git push origin --delete`
+
+
+4. Rebasing & History Manipulation (Intermediate)
+
+- Learn how to clean and rewrite commit history:
+    - What is rebasing (`git rebase`)?
+    - Interactive rebasing (`git rebase -i`)
+    - Squashing commits
+    - Amending commits (`git commit --amend`)
+    - Resetting changes (`git reset` - soft, mixed, hard)
+    - Reverting commits (`git revert`)
+
+
+5. Collaboration Workflows (Intermediate)
+
+- Understand how to work in teams with Git:
+    - Forking workflow (common in open source)
+    - Pull requests / merge requests (concepts)
+    - Code reviews and comments
+    - Handling conflicts collaboratively
+    - Git hooks basics (pre-commit, post-commit)
+
+
+6. Advanced Git Features 
+
+- For deeper understanding and troubleshooting:
+    - Stashing changes (`git stash`)
+    - Tagging releases (`git tag`)
+    - Using `.gitignore` and `.gitattributes` effectively
+    - Git submodules (including other repos)
+    - Using Git with CI/CD pipelines (GitHub Actions, GitLab CI)
