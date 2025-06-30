@@ -1,0 +1,93 @@
+
+1. Programming Fundamentals
+
+* Variables, Data Types, Operators
+* Control Flow (if, loops, switch)
+* Functions/Methods
+* Recursion
+* Error handling
+* Input/Output
+
+2. Data Structures
+
+* Arrays & Strings
+* Linked Lists (Singly, Doubly)
+* Stacks & Queues
+* Hash Tables (HashMap, HashSet)
+* Trees (Binary, BST, AVL, Trie)
+* Graphs (Adjacency list/matrix)
+* Heaps/Priority Queue
+
+3. Algorithms
+
+* Sorting (Bubble, Merge, Quick, Heap)
+* Searching (Binary Search, DFS, BFS)
+* Recursion and Backtracking
+* Greedy Algorithms
+* Dynamic Programming
+* Divide and Conquer
+* Graph Algorithms (Dijkstra, Floyd-Warshall, Kruskal, Prim)
+
+4. Computer Architecture
+
+* Binary & Hexadecimal
+* Logic Gates & Circuits
+* CPU, RAM, I/O devices
+* Instruction Cycle
+* Memory Hierarchy (Cache, RAM, Disk)
+* Assembly basics (optional)
+
+5. Operating Systems
+
+* Processes & Threads
+* Scheduling Algorithms
+* Memory Management (Paging, Segmentation)
+* Deadlocks
+* File Systems
+* System Calls
+
+6. Networking Basics
+
+* OSI & TCP/IP Models
+* IP Addressing, DNS, DHCP
+* HTTP/HTTPS
+* TCP vs UDP
+* Sockets & Ports
+* Basics of firewalls and routing
+
+7. Databases
+
+* Relational Databases (SQL basics)
+* Normalization & Joins
+* Transactions (ACID)
+* Indexing
+* NoSQL concepts (MongoDB, Redis)
+
+8. Software Engineering Principles
+
+* SDLC (Waterfall, Agile, Scrum)
+* Version Control (Git & GitHub)
+* Design Patterns (Singleton, Factory, etc.)
+* Testing (Unit, Integration)
+* Code Quality (Clean Code, SOLID Principles)
+
+9. Theory of Computation
+
+* Automata Theory (DFA, NFA)
+* Regular Languages
+* Turing Machines
+* Decidability and P vs NP
+
+10. Compilers & Interpreters
+
+* Lexical Analysis
+* Parsing
+* Syntax Trees
+* Code Generation
+
+11. Cybersecurity (Basics)
+
+* Encryption & Hashing
+* Authentication vs Authorization
+* OWASP Top 10
+* Secure Coding Practices
