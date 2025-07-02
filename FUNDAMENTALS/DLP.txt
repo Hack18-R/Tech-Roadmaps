@@ -1,0 +1,32 @@
+                                             Development Learning Path
+
+1. Computer Basics & Digital Logic
+2. Programming Fundamentals
+3. Data Structures & Algorithms (DSA)
+4. Object-Oriented Programming (OOP)
+5. Computer Organization & Architecture
+6. Operating Systems (OS) Concepts
+7. Databases & SQL
+8. Networking Fundamentals
+9. Version Control (Git & GitHub)
+10. Linux Commands & Shell Scripting
+11. Basic Software Engineering Principles
+12. Design Patterns
+13. Clean Code & Coding Best Practices
+14. Software Development Life Cycle (SDLC)
+15. Web Development Fundamentals
+16. Frontend Development (HTML, CSS, JS, React)
+17. Backend Development (Java/Python/Node.js, REST APIs)
+18. Database Integration (MySQL, MongoDB, PostgreSQL)
+19. Authentication & Authorization (JWT, OAuth)
+20. DevOps Basics (Docker, CI/CD, Linux Deployment)
+21. Cloud Basics (AWS/GCP/Azure - EC2, S3, Lambda, RDS)
+22. Testing (Unit Testing, API Testing, Load Testing)
+23. System Design Basics (Scalability, Load Balancing)
+24. API Design & Documentation (Swagger/Postman)
+25. Security Fundamentals (HTTPS, Hashing, Encryption)
+26. Debugging & Logging
+27. Agile & Scrum Basics
+28. Basic Project Management Tools (Jira, Trello, etc.)
+29. Building Full Projects (Frontend + Backend + DB + Deployment)
+30. Contributing to Open Source or Real Team Projects
