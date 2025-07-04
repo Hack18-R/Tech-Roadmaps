@@ -31,3 +31,4 @@
 28. Basic Project Management Tools (Jira, Trello, etc.)
 29. Building Full Projects (Frontend + Backend + DB + Deployment)
 30. Contributing to Open Source or Real Team Projects
+31. AI Tools for Developers
