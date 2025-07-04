@@ -1,18 +1,18 @@
                                              Development Learning Path
 
-1. Computer Basics & Digital Logic
-2. Programming Fundamentals
-3. Data Structures & Algorithms (DSA)
-4. Object-Oriented Programming (OOP)
-5. Computer Organization & Architecture
-6. Operating Systems (OS) Concepts
-7. Databases & SQL
-8. Networking Fundamentals
-9. Version Control (Git & GitHub)
-10. Linux Commands & Shell Scripting
+1. Computer Basics
+2. Computer Organization & Architecture
+3. Operating Systems (OS) Concepts
+4. Networking Fundamentals
+5. Linux Commands & Shell Scripting
+6. Programming Fundamentals
+7. Object-Oriented Programming (OOP)
+8. Data Structures & Algorithms (DSA)
+9. Databases
+10. Version Control (Git & GitHub)
 11. Basic Software Engineering Principles
-12. Design Patterns
-13. Clean Code & Coding Best Practices
+12. Clean Code & Coding Practices
+13. Design Patterns
 14. Software Development Life Cycle (SDLC)
 15. Web Development Fundamentals
 16. Frontend Development (HTML, CSS, JS, React)
