@@ -25,7 +25,11 @@
 - TCP vs UDP  
 - IP Addressing, DNS, Subnetting  
 - Load Balancing & Reverse Proxy (Nginx, HAProxy)  
-- WebSockets (for real-time communication)  
+- WebSockets (for real-time communication)
+- Firewall, NAT & Port Forwarding 🆕
+- CORS (Cross-Origin Resource Sharing) 🆕
+- TLS/SSL Basics (HTTPS handshake, Certificates) 🆕
+- Network Debugging Tools (ping, curl, nslookup, traceroute, etc.)
 
 
 ## **3. Databases – SQL**  
