@@ -1,0 +1,123 @@
+
+📘 SOFTWARE TESTING ROADMAP (BEGINNER TO ADVANCED)
+
+✅ STEP 1: Understand Basics of Testing
+----------------------------------------
+- What is Software Testing?
+- Why is Testing Important?
+- Manual Testing vs Automation Testing
+- SDLC (Software Development Life Cycle)
+- STLC (Software Testing Life Cycle)
+- Levels of Testing: Unit, Integration, System, Acceptance
+- Types of Testing: Functional vs Non-Functional
+
+✅ STEP 2: Learn Manual Testing Concepts
+----------------------------------------
+- What is a Bug / Defect / Error?
+- Test Case, Test Scenario, Test Plan
+- Bug Life Cycle (Defect Life Cycle)
+- Severity vs Priority
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- Agile Testing Basics (Scrum, Sprint, Daily Standups)
+
+✅ STEP 3: Learn Testing Techniques
+-----------------------------------
+- Black Box Testing Techniques:
+  - Equivalence Partitioning
+  - Boundary Value Analysis
+  - Decision Table Testing
+  - State Transition Testing
+- White Box Testing Techniques:
+  - Statement Coverage
+  - Branch Coverage
+  - Path Coverage
+
+✅ STEP 4: Learn Bug Tracking & Test Management Tools
+-----------------------------------------------------
+- JIRA (Bug reporting and tracking)
+- TestLink or Xray (Test case management)
+
+✅ STEP 5: Learn SQL Basics (for Database Testing)
+--------------------------------------------------
+- SELECT, INSERT, UPDATE, DELETE
+- WHERE, AND, OR, LIKE
+- JOINS (INNER, LEFT, RIGHT)
+- Aggregate Functions (COUNT, SUM, AVG)
+
+✅ STEP 6: Learn Basic Linux Commands
+--------------------------------------
+- ls, cd, pwd, mkdir
+- cat, nano, tail, head, grep, chmod
+
+✅ STEP 7: Learn API Testing (Manual)
+--------------------------------------
+- What is an API?
+- HTTP Methods (GET, POST, PUT, DELETE)
+- Status Codes
+- Headers, Params, JSON Body
+- Using Postman for API Testing
+- Writing Basic Test Scripts in Postman
+
+✅ STEP 8: Learn Automation Testing
+------------------------------------
+Required Tools:
+- Java (basic for testers)
+- Selenium WebDriver
+- TestNG
+- Maven
+- Git & GitHub
+- Jenkins (CI/CD)
+- Postman (for API Automation)
+- Cucumber (Optional - BDD)
+
+Topics to Learn:
+1. Java Basics (OOP, Loops, Arrays, Conditions)
+2. Selenium WebDriver – Locate Elements, Actions, Waits
+3. TestNG – Annotations, Assertions, Groups, Reporting
+4. Page Object Model (POM) – Structure Framework
+5. Data Driven Testing (DDT) with Excel or Apache POI
+6. Maven – Build & Dependency Management
+7. Git & GitHub – Version Control System
+8. Jenkins – Continuous Integration (CI)
+9. API Automation using Postman or RestAssured
+10. Cucumber – BDD with Gherkin Syntax (Optional)
+
+✅ STEP 9: Learn Other Testing Types (Advanced)
+-----------------------------------------------
+- Performance Testing Basics (Using Apache JMeter)
+- Mobile Testing Basics (Using Appium)
+- Security Testing Basics (OWASP Top 10 Overview)
+- Usability Testing Concepts
+- Compatibility Testing (Browser & Device Matrix)
+
+✅ STEP 10: Real-Time Project Practice
+--------------------------------------
+- Manual Testing Project (E-commerce, Banking, etc.)
+- Automation Framework Project (Selenium + TestNG + POM + Maven)
+- API Testing Project (Postman Collection + CI)
+- Test Case Writing, Bug Reporting, Execution
+
+✅ STEP 11: Tools to Install
+-----------------------------
+- Java JDK
+- Eclipse or IntelliJ IDE
+- Selenium WebDriver
+- TestNG
+- Maven
+- Git + GitHub
+- Jenkins (Optional)
+- Postman
+- JIRA (Online)
+- Apache JMeter (Optional for Performance)
+- Appium (Optional for Mobile)
+
+✅ STEP 12: Resume & Interview Preparation
+------------------------------------------
+- Build your Resume (Manual + Automation Skills)
+- Practice Interview Questions (Manual, API, Selenium, Java)
+- Prepare for Real Scenarios and Test Cases
+- Apply on LinkedIn, Naukri, Glassdoor, etc.
