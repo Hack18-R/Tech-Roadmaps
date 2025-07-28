@@ -22,7 +22,7 @@
 19. Authentication & Authorization (JWT, OAuth)
 20. DevOps Basics (Docker, CI/CD, Linux Deployment)
 21. Cloud Basics (AWS/GCP/Azure - EC2, S3, Lambda, RDS)
-22. Software Testing (Unit Testing, API Testing, Load Testing)
+22. Software Testing (Manual,Automation,API)
 23. System Design Basics (Scalability, Load Balancing)
 24. API Design & Documentation (Swagger/Postman)
 25. Security Fundamentals (HTTPS, Hashing, Encryption)
