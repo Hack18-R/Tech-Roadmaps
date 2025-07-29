@@ -2,33 +2,32 @@
 
 
 1. Computer Basics
-2. Computer Organization & Architecture
-3. Operating Systems (OS)
-4. Networking Fundamentals
-5. Linux Commands & Shell Scripting
-6. Programming Fundamentals
-7. Object-Oriented Programming (OOP)
-8. Data Structures & Algorithms (DSA)
-9. Databases
-10. Version Control (Git & GitHub)
-11. Basic Software Engineering Principles
-12. Clean Code & Coding Practices
-13. Design Patterns
-14. Software Development Life Cycle (SDLC)
-15. Web Development Fundamentals
-16. Frontend Development (HTML, CSS, JS, React)
-17. Backend Development (Java/Python/Node.js, REST APIs)
-18. Database Integration (MySQL, MongoDB, PostgreSQL)
-19. Authentication & Authorization (JWT, OAuth)
-20. DevOps Basics (Docker, CI/CD, Linux Deployment)
-21. Cloud Basics (AWS/GCP/Azure - EC2, S3, Lambda, RDS)
-22. Software Testing (Manual,Automation,API)
-23. System Design Basics (Scalability, Load Balancing)
-24. API Design & Documentation (Swagger/Postman)
-25. Security Fundamentals (HTTPS, Hashing, Encryption)
-26. Debugging & Logging
-27. Agile & Scrum Basics
-28. Basic Project Management Tools (Jira, Trello, etc.)
-29. Building Full Projects (Frontend + Backend + DB + Deployment)
-30. Contributing to Open Source or Real Team Projects
-31. AI Tools for Developers
+2. Operating Systems (OS)
+3. Networking Fundamentals
+4. Linux Commands & Shell Scripting
+5. Programming Fundamentals
+6. Object-Oriented Programming (OOP)
+7. Data Structures & Algorithms (DSA)
+8. Databases
+9. Version Control (Git & GitHub)
+10. Basic Software Engineering Principles
+11. Clean Code & Coding Practices
+12. Design Patterns
+13. Software Development Life Cycle (SDLC)
+14. Web Development Fundamentals
+15. Frontend Development (HTML, CSS, JS, React)
+16. Backend Development (Java/Python/Node.js, REST APIs)
+17. Database Integration (MySQL, MongoDB, PostgreSQL)
+18. Authentication & Authorization (JWT, OAuth)
+19. DevOps Basics (Docker, CI/CD, Linux Deployment)
+20. Cloud Basics (AWS/GCP/Azure - EC2, S3, Lambda, RDS)
+21. Software Testing (Manual, Automation, API)
+22. System Design Basics (Scalability, Load Balancing)
+23. API Design & Documentation (Swagger/Postman)
+24. Security Fundamentals (HTTPS, Hashing, Encryption)
+25. Debugging & Logging
+26. Agile & Scrum Basics
+27. Basic Project Management Tools (Jira, Trello, etc.)
+28. Building Full Projects (Frontend + Backend + DB + Deployment)
+29. Contributing to Open Source or Real Team Projects
+30. AI Tools for Developers
