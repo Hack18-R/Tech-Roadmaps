@@ -3,7 +3,7 @@
 
 1. Computer Basics
 2. Computer Organization & Architecture
-3. Operating Systems (OS) Concepts
+3. Operating Systems (OS)
 4. Networking Fundamentals
 5. Linux Commands & Shell Scripting
 6. Programming Fundamentals
