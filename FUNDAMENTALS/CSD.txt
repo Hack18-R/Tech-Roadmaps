@@ -174,3 +174,16 @@ Agile & Tools:
 
 - Scrum basics (sprints, standups)
 - Jira / Trello for task tracking
+
+🧪 8. **Testing (Unit, Integration, E2E)**
+
+Types of Testing:
+
+- Unit Testing** – Test individual functions/components
+- Integration Testing** – Test how components/services work together
+- End-to-End (E2E) Testing** – Simulate user behavior (entire app flow)
+- API Testing** – Ensure backend endpoints work as expected
+- Manual Testing** – Exploratory or UI-based checks
+- Automation Testing
+- Performance Testing** – Load testing, stress testing
+- Security Testing** – Check vulnerabilities
