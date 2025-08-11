@@ -39,6 +39,12 @@
 - Python + Django or Flask
 - Node.js + Express/NestJS
 
+🛠️ Problem Sloving:
+
+-DSA
+-Patterns
+-GFG,Leetcode,HackerRank
+
 🛠️ Technologies & Tools:
 
 - Web server basics (HTTP, HTTPS)
@@ -187,3 +193,4 @@ Types of Testing:
 - Automation Testing
 - Performance Testing** – Load testing, stress testing
 - Security Testing** – Check vulnerabilities
+
