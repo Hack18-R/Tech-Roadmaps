@@ -83,9 +83,7 @@
             - Anagrams Problem
             - Detecting Duplicates
             - Caching and Memoization
-
         - Implementing Hash Maps
-        - Common Problems Using Hashing
 
 
 4. Searching Algorithms
@@ -241,12 +239,6 @@
         - Greedy Choice Property
         - Optimal Substructure
 
-    11.2 Greedy Problems
-        - Activity Selection Problem
-        - Fractional Knapsack Problem
-        - Huffman Coding
-        - Job Sequencing Problem
-
 
 12. Recursion & Backtracking
     12.1 Understanding Recursion
@@ -254,21 +246,9 @@
         - Recursive Case
         - Stack Overflow Issues
 
-    12.2 Common Recursion Problems
-        - Factorial
-        - Fibonacci Sequence
-        - Tower of Hanoi
-        - Permutations and Combinations
-
-    12.3 Introduction to Backtracking
+    12.2 Introduction to Backtracking
         - Backtracking Principle
         - When to use Backtracking
-
-    12.4 Backtracking Problems
-        - N-Queens Problem
-        - Rat in a Maze
-        - Subset Sum Problem
-        - Sudoku Solver
 
 
 13. Dynamic Programming (DP)
@@ -276,20 +256,4 @@
         - Optimal Substructure
         - Overlapping Subproblems
         - Memoization vs Tabulation
-
-    13.2 Basic DP Problems
-        - Fibonacci Sequence (Memoization)
-        - Knapsack Problem
-            - 0/1 Knapsack
-            - Fractional Knapsack
-        - Longest Common Subsequence (LCS)
-        - Longest Increasing Subsequence (LIS)
-
-    13.3 Advanced DP Problems
-        - Matrix Chain Multiplication
-        - Rod Cutting Problem
-        - Coin Change Problem
-        - Edit Distance Problem
-
-
 
