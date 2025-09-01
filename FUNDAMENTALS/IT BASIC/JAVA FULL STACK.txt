@@ -1,0 +1,23 @@
+Java Full-Stack Main Skills:
+
+1. Core Java
+2. Spring Boot
+3. RESTful APIs
+4. Microservices
+5. JavaScript (ES6+)
+6. React.js / Angular / Vue
+7. HTML5 & CSS3
+8. State Management (Redux / Zustand / Recoil)
+9. Routing (React Router / Vue Router)
+10. Database (SQL & NoSQL)
+11. ORM (Hibernate)
+12. Git & GitHub
+13. Docker
+14. CI/CD (GitHub Actions / Jenkins)
+15. Cloud Platforms (AWS / Azure / GCP)
+16. Unit & Integration Testing
+17. Design Patterns
+18. System Design
+19. Security Basics (OAuth2, CSRF, XSS, HTTPS)
+20. DSA / Problem Solving
+21. Agile / Project Management
