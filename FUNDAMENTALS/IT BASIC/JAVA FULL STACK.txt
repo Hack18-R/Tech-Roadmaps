@@ -14,5 +14,10 @@ Java Full-Stack Main Skills:
 12. DevOps / Cloud: Linux, Docker, Kubernetes, CI/CD, AWS
 13. Testing
 14. Agile / Project Management
+15.Problem solving
+16.debugging
+17.project building
+18.Soft Skill: Communication,Team work,Time Management
+
 
 
