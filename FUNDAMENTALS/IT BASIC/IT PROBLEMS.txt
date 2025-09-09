@@ -6,7 +6,7 @@ Types of Problems in Programming / Software World
 - Simple math problems → Fibonacci, Prime check, Factorial
 - String manipulation → Reverse string, Palindrome, Anagrams
 - Pattern printing → Stars, numbers, pyramids
-Goal: Build coding logic + syntax fluency.
+- Brute Froce Approach
 
 2. Data Structures Problems
 ----------------------------
@@ -81,3 +81,4 @@ Career Path Guidance
 =====================
 - For Coding Interviews → focus on (Basic Logic → DSA → Algorithms → Interview Problems)
 - For Real-World Software Engineering → focus on (Java + OOP + System Design + Databases + Scalability problems)
+
