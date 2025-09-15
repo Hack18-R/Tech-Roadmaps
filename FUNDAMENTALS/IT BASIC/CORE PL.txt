@@ -1,0 +1,42 @@
+Core Programming Concepts (Universal)
+
+1. Basic Syntax & Structure
+   - Variables, constants
+   - Data types (int, float, string, boolean, etc.)
+   - Operators (arithmetic, logical, comparison)
+
+2. Control Flow
+   - Conditional statements (if, else, switch)
+   - Loops (for, while, do-while)
+
+3. Functions / Methods
+   - Defining and calling functions
+   - Parameters and return values
+   - Scope (local vs global variables)
+
+4. Data Structures (Basics)
+   - Arrays / Lists
+   - Strings (manipulation, searching)
+   - Dictionaries / Maps / HashTables
+
+5. Object-Oriented Programming (OOP)
+   - Classes and Objects
+   - Encapsulation
+   - Inheritance
+   - Polymorphism
+
+6. Error Handling
+   - Exceptions / Try-Catch
+   - Debugging basics
+
+7. Input / Output (I/O)
+   - Reading & writing data
+   - Console I/O, File handling basics
+
+8. Memory & Execution Basics
+   - Stack vs Heap (conceptual level)
+   - How programs run (compilation vs interpretation)
+
+9. Problem Solving Mindset
+   - Breaking problems into steps (algorithms)
+   - Writing clean, efficient code
