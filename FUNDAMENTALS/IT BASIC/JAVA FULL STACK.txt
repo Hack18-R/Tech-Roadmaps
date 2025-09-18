@@ -1,6 +1,6 @@
 Java Full-Stack Main Skills:
 
-1. Programming Language: Java ,JavaScript
+1. Programming Language: Java ,JavaScript,Python 
 2. DSA
 3. Framework: Spring Boot,Security
 4. Database: SQL, NoSQL, ORM
@@ -18,3 +18,4 @@ Java Full-Stack Main Skills:
 16.debugging
 17.project building
 18.Soft Skill: Communication,Team work,Time Management
+
