@@ -22,7 +22,7 @@
 19. DevOps Basics (Docker, CI/CD, Linux Deployment)
 20. Cloud Basics (AWS/GCP/Azure - EC2, S3, Lambda, RDS)
 21. Software Testing (Manual, Automation, API)
-22. System Design Basics (Scalability, Load Balancing)
+22. System Design Basics and Microservices (Scalability, Load Balancing)
 23. API Design & Documentation (Swagger/Postman)
 24. Security Fundamentals (HTTPS, Hashing, Encryption)
 25. Debugging & Logging
@@ -31,4 +31,5 @@
 28. Building Full Projects (Frontend + Backend + DB + Deployment)
 29. Contributing to Open Source or Real Team Projects
 30. AI Tools for Developers
+
 
