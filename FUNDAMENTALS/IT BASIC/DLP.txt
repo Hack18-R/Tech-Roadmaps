@@ -11,7 +11,7 @@
 8. Databases
 9. Version Control (Git & GitHub)
 10. Basic Software Engineering Principles
-11. Clean Code & Coding Practices
+11. Clean Code
 12. Design Patterns
 13. Software Development Life Cycle (SDLC)
 14. Web Development Fundamentals
@@ -31,3 +31,4 @@
 28. Building Full Projects (Frontend + Backend + DB + Deployment)
 29. Contributing to Open Source or Real Team Projects
 30. AI Tools for Developers
+
