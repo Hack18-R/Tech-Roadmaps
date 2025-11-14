@@ -1,0 +1,75 @@
+DSA COMPLETE LIST
+======================
+DATA STRUCTURES
+======================
+1. Arrays
+2. Strings
+3. Linked List (Singly, Doubly)
+4. Stack
+5. Queue
+6. Deque
+7. HashMap
+8. HashSet
+9. Priority Queue (Heap)
+10. Binary Tree
+11. Binary Search Tree (BST)
+12. Trie
+13. Graph (Adjacency List, Matrix)
+14. Disjoint Set Union (Union-Find)
+15. Segment Tree
+16. Fenwick Tree (BIT)
+
+======================
+ALGORITHMS
+======================
+1. Linear Search
+2. Binary Search
+3. Sorting Algorithms:
+   - Bubble Sort
+   - Selection Sort
+   - Insertion Sort
+   - Merge Sort
+   - Quick Sort
+4. DFS (Depth-First Search)
+5. BFS (Breadth-First Search)
+6. Cycle Detection
+7. Topological Sort
+8. Dijkstra’s Algorithm
+9. Bellman-Ford Algorithm
+10. Prim’s MST
+11. Kruskal’s MST
+12. Activity Selection
+13. Interval Scheduling
+14. Huffman Coding
+15. Dynamic Programming:
+    - Knapsack DP
+    - Grid DP
+    - String DP
+    - Tree DP
+16. Backtracking
+19. Math Algorithms:
+    - Prime Sieve
+    - GCD/LCM
+    - Fast Exponentiation
+
+======================
+PATTERNS
+======================
+1. Two Pointers
+2. Sliding Window
+3. Prefix Sum
+4. Difference Array
+5. Kadane’s Algorithm
+6. Frequency Map
+7. Monotonic Stack
+8. Next Greater Element
+9. BFS Level Pattern
+10. DFS Tree Pattern
+11. Subtree Pattern
+12. Path Sum Pattern
+13. Shortest Path Pattern
+14. Topo Sort Pattern
+15. Subset Generation
+16. Permutation Generation
+17. Combination Generation
+18. N-Queens Pattern

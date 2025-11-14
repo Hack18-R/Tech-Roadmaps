@@ -1,0 +1,62 @@
+
+ WHAT TO LEARN IN DSA
+
+-------------------------------
+ 1) DATA STRUCTURES — WHAT TO LEARN
+-------------------------------
+
+- What it is
+- How it organizes/stores data
+- What operations it supports
+- Time complexity of each operation
+- Space usage
+- When it should be used
+- Strengths and weaknesses
+- How to implement it
+- How to apply it in problems
+
+
+-------------------------------
+ 2) ALGORITHMS — WHAT TO LEARN
+-------------------------------
+
+- What the algorithm does
+- The step-by-step process/flow
+- Why it works (core logic)
+- Time complexity
+- Space complexity
+- Situations where it is useful
+- Variations of the algorithm
+- How to implement it
+- How to apply it in problems
+
+
+-------------------------------
+ 3) PATTERNS — WHAT TO LEARN
+-------------------------------
+
+- The main idea of the pattern
+- Trigger conditions that indicate using it
+- Template/structure of the approach
+- Logic flow of the pattern
+- When the pattern is effective
+- Common mistakes to avoid
+- Variations or alternative forms
+- How to apply it to problems
+- How to recognize it in new problems
+
+
+-------------------------------
+ UNIVERSAL CHECKLIST FOR ANY DSA TOPIC
+-------------------------------
+
+For any DS, algorithm, or pattern:
+- Learn the core idea
+- Learn how it works internally
+- Learn complexities
+- Learn when to use it
+- Learn how to implement it
+- Learn how to apply it to problems
+- Learn common mistakes
+- Learn variations
+- Learn how to identify it quickly
