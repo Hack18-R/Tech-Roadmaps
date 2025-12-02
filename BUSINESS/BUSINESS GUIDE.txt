@@ -1,5 +1,5 @@
 
-WHAT YOU MUST LEARN FIRST (CORE SKILLS)
+STEP 1: WHAT YOU MUST LEARN FIRST (CORE SKILLS)
 
 1) Business Basics
 - What problem are you solving?
@@ -41,7 +41,7 @@ Depending on your idea:
 You don’t need to be a coder, just understand basics.
 
 
-STEPS TO START YOUR BUSINESS FROM ZERO
+STEP 2: TO START YOUR BUSINESS FROM ZERO
 
 Step 1 — Find a Problem
 Business starts with one question:
@@ -100,3 +100,4 @@ Use:
 - Customer feedback
 - Automation tools
 - Hire people slowly
+
