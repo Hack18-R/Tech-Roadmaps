@@ -1,0 +1,195 @@
+# ✅ 1. STRING – Most important built-in methods
+
+### Basic
+
+* length()
+* charAt(int index)
+* substring(int begin, int end)
+* contains(String)
+* indexOf(String)
+* lastIndexOf(String)
+* equals(String)
+* equalsIgnoreCase(String)
+* toLowerCase()
+* toUpperCase()
+* trim()
+* replace(old, new)
+
+### Split & join
+
+* split(String regex)
+* String.join(delimiter, elements...)
+
+### StringBuilder
+
+* append()
+* insert()
+* delete()
+* reverse()
+* toString()
+
+---
+
+# ✅ 2. ARRAYS – Most used methods (java.util.Arrays)
+
+* sort(array)
+* binarySearch(array, key)
+* toString(array)
+* copyOf(array, newLength)
+* copyOfRange(array, start, end)
+* fill(array, value)
+* equals(arr1, arr2)
+* asList(T... elements)
+
+---
+
+# ✅ 3. ARRAYLIST – Very common built-ins
+
+* add(element)
+* add(index, element)
+* get(index)
+* set(index, element)
+* remove(index)
+* remove(Object)
+* contains(element)
+* size()
+* isEmpty()
+* clear()
+* indexOf(element)
+* toArray()
+
+---
+
+# ✅ 4. HASHMAP – Most used built-ins
+
+* put(key, value)
+* get(key)
+* getOrDefault(key, defaultValue)
+* containsKey(key)
+* containsValue(value)
+* remove(key)
+* keySet()
+* values()
+* entrySet()
+* size()
+* isEmpty()
+
+---
+
+# ✅ 5. HASHSET – Important built-ins
+
+* add(element)
+* remove(element)
+* contains(element)
+* size()
+* isEmpty()
+* clear()
+
+---
+
+# ✅ 6. COLLECTIONS Utility Methods (java.util.Collections)
+
+* sort(list)
+* reverse(list)
+* shuffle(list)
+* min(list)
+* max(list)
+* frequency(list, value)
+
+---
+
+# ✅ 7. MATH – Most useful methods
+
+* Math.max(a, b)
+* Math.min(a, b)
+* Math.abs(a)
+* Math.pow(a, b)
+* Math.sqrt(a)
+* Math.random()
+* Math.ceil()
+* Math.floor()
+* Math.round()
+
+---
+
+# ✅ 8. CHARACTER & WRAPPER CLASSES
+
+### Character
+
+* isDigit(ch)
+* isLetter(ch)
+* isUpperCase(ch)
+* isLowerCase(ch)
+* toUpperCase(ch)
+* toLowerCase(ch)
+
+### Integer
+
+* parseInt(String)
+* valueOf(String)
+* toString(int)
+
+### Double
+
+* parseDouble(String)
+
+---
+
+# ✅ 9. FILE I/O (Basics)
+
+### Reading
+
+* BufferedReader.readLine()
+* Scanner.nextInt()
+* Scanner.nextLine()
+* Scanner.hasNext()
+
+### Writing
+
+* BufferedWriter.write()
+* BufferedWriter.newLine()
+* PrintWriter.println()
+
+---
+
+# ✅ 10. JAVA 8 STREAMS – Most common operations
+
+### Creating streams
+
+* list.stream()
+* Arrays.stream(arr)
+
+### Intermediate operations
+
+* filter(predicate)
+* map(function)
+* sorted()
+* distinct()
+* limit(n)
+* skip(n)
+
+### Terminal operations
+
+* collect(Collectors.toList())
+* collect(Collectors.toSet())
+* forEach()
+* count()
+* anyMatch()
+* allMatch()
+* findFirst()
+* findAny()
+* sum()
+* max()
+* min()
+
+---
+
+# ✅ 11. OPTIONAL
+
+* Optional.of(x)
+* Optional.empty()
+* Optional.ofNullable(x)
+* isPresent()
+* ifPresent()
+* orElse(default)
+* orElseGet(supplier)
