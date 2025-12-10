@@ -1,21 +1,22 @@
 PATTERNS
-======================
 1. Two Pointers
 2. Sliding Window
 3. Prefix Sum
-4. Difference Array
-5. Kadane’s Algorithm
-6. Frequency Map
-7. Monotonic Stack
-8. Next Greater Element
-9. BFS Level Pattern
-10. DFS Tree Pattern
-11. Subtree Pattern
-12. Path Sum Pattern
-13. Shortest Path Pattern
-14. Topo Sort Pattern
-15. Subset Generation
-16. Permutation Generation
-17. Combination Generation
-18. N-Queens Pattern
-
+4. Hashing / Frequency Count
+5. Fast–Slow Pointers
+6. Binary Search
+7. Binary Search on Answer
+8. Merge Intervals
+9. Sorting + Greedy
+10. Monotonic Stack
+11. Recursion
+12. Backtracking
+13. Dynamic Programming (DP)
+14. BFS (Breadth-First Search)
+15. DFS (Depth-First Search)
+16. Topological Sort
+17. Union–Find (Disjoint Set)
+18. Trie
+19. Kadane’s Algorithm
+20. Sweep Line
+21. Bit Manipulation
