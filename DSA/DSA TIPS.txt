@@ -1,0 +1,71 @@
+
+MASTER DATA STRUCTURES AND ALGORITHMS 
+
+1. ESSENTIAL DSA TOPICS
+
+Data Structures:
+  Linear:
+    - Arrays
+    - Linked Lists
+    - Stacks
+    - Queues
+    - Hash Tables
+  Nonlinear:
+    - Trees
+    - Binary Search Trees
+    - Heaps
+    - Graphs
+    - Tries
+    - Union Find
+
+Algorithms:
+  - Sorting
+  - Binary Search
+  - Bit Manipulation
+  - Tree Traversals (Inorder, Preorder, Postorder, Level Order)
+  - Graph Algorithms (DFS, BFS, Shortest Path)
+
+Problem Solving Techniques / Patterns:
+  - Two Pointers
+  - Sliding Window
+  - Recursion
+  - Backtracking
+  - Dynamic Programming
+  - Greedy Algorithms
+
+Note: Always understand Time and Space Complexity.
+
+
+2. RECOMMENDED LEARNING ORDER
+
+1. Learn Linear Data Structures (Arrays, Linked Lists, Stacks, Queues).
+2. Learn Basic Algorithms and Patterns (Two Pointers, Recursion, Sorting, Searching).
+3. Move to Hierarchical Data Structures (Trees, Heaps).
+4. Study Complex Algorithms (Greedy, Dynamic Programming).
+5. Learn Graphs and Union Find last.
+
+
+3. HOW TO MASTER A NEW TOPIC
+
+- Start with the basics: concept, operations, time and space complexity.
+- Implement the data structure or algorithm from scratch.
+- Learn how to use built-in libraries in your programming language.
+- Solve 4 to 5 easy problems after learning the basics.
+- Remember: Real mastery comes from problem solving, not just tutorials.
+
+
+4. KEY STRATEGIES FOR IMPROVEMENT
+
+- Challenge yourself: move from easy to medium level problems gradually.
+- Understand concepts instead of memorizing solutions.
+- Think in patterns: identify common techniques like Two Pointers or Sliding Window.
+
+
+5. REVISION AND RETENTION STRATEGY
+
+- Repetition: revisit concepts and problems regularly.
+- Use the 2-List Revision Method:
+    Revision One: Problems you could not solve and needed to check the solution.
+    Revision Two: Problems solved correctly after moving from Revision One.
+    If solved again from Revision Two, you have mastered that problem.
+- Be consistent: solve at least one or two problems daily.
