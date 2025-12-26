@@ -1,0 +1,49 @@
+                                                Problem Solving & DSA Mastery Roadmap
+
+Step 1: Foundation / Basics
+- Input / Output
+- Conditional Logic (if-else, switch)
+- Loops (for, while, do-while)
+- Patterns (stars, numbers, alphabets)
+- Number / Maths Logic (palindrome, factorial, prime, GCD/LCM, Fibonacci)
+- Bit Manipulation (basic AND, OR, XOR, shift)
+
+Step 2: Core Problem Solving / DSA
+- Array (1D to 2D / Matrix)
+- String
+- Hash Table / Map / Frequency counting
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+
+Step 3: Recursion & Backtracking
+- Recursion basics
+- Backtracking (subsets, permutations, simple paths)
+
+Step 4: Fundamental Data Structures
+- Stack
+- Queue / Deque
+- Linked List
+- Binary Tree / Tree
+- Binary Search Tree (BST)
+- Heap / Priority Queue
+
+Step 5: Searching & Sorting
+- Linear Search
+- Binary Search
+- Sorting (Bubble, Selection, Insertion, Merge, Quick)
+
+Step 6: Advanced Logic / Algorithms
+- Greedy
+- Graphs (BFS, DFS, Connected Components)
+- Dynamic Programming (basic)
+- Trie (basic string search)
+
+Step 7: Practice Platforms
+- LeetCode
+- HackerRank
+- GeeksforGeeks (GFG)
+
+Step 8: Projects
+- Start small projects using arrays, strings, loops, logic
+- Gradually integrate DSA + problem-solving techniques
