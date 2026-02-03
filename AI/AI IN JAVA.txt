@@ -1,0 +1,60 @@
+
+AI SKILLS FOR JAVA DEVELOPER
+
+1. AI BASICS (High level)
+   - What is LLM (Large Language Model)
+   - Prompt → Response flow
+   - Tokens & context limits
+   - Temperature (deterministic vs creative)
+   - Stateless nature of LLMs
+
+2. PROMPT ENGINEERING (Backend focused)
+   - System prompt vs User prompt
+   - Structured prompts (JSON-only output)
+   - Rules & constraints in prompts
+   - Few-shot prompting
+   - Prompt versioning & reuse
+
+3. AI API INTEGRATION
+   - Calling LLMs via REST APIs
+   - Request / Response structure
+   - Streaming vs normal responses
+   - Error handling & retries
+   - Rate limiting concepts
+   - API key management
+
+4. SPRING AI (Java specific)
+   - Spring AI overview
+   - ChatModel usage
+   - Prompt templates
+   - Response parsing
+   - Configuration & providers
+
+5. TEXT EMBEDDINGS
+   - What embeddings are
+   - Text → vector concept
+   - Semantic similarity search
+   - Use cases (search, recommendation)
+   - Storing embeddings (concept)
+
+6. AI + BACKEND ARCHITECTURE
+   - AI as async/background task
+   - Caching AI responses
+   - Conversation history handling
+   - Fallback when AI fails
+   - Human-in-the-loop pattern
+
+7. AI SECURITY & COST CONTROL
+   - Protecting AI API keys
+   - Input / Output sanitization
+   - Prompt injection awareness
+   - User-level rate limiting
+   - Token usage tracking
+   - Cost optimization strategies
+
+8. COMMON AI USE CASES
+   - Chatbots
+   - Text summarization
+   - Classification
+   - Semantic search
+   - Recommendation systems
