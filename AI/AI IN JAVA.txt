@@ -2,6 +2,7 @@
 AI SKILLS FOR JAVA DEVELOPER
 
 1. AI BASICS (High level)
+   - What is Generative AI
    - What is LLM (Large Language Model)
    - Prompt → Response flow
    - Tokens & context limits
@@ -58,3 +59,4 @@ AI SKILLS FOR JAVA DEVELOPER
    - Classification
    - Semantic search
    - Recommendation systems
+
