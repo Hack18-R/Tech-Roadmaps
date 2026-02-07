@@ -1,5 +1,4 @@
-
-AI SKILLS FOR JAVA DEVELOPER
+AI SKILLS FOR JAVA DEVELOPER (2026)
 
 1. AI BASICS (High level)
    - What is Generative AI
@@ -60,3 +59,17 @@ AI SKILLS FOR JAVA DEVELOPER
    - Semantic search
    - Recommendation systems
 
+9. ADVANCED RAG & HYBRID SEARCH
+   - Hybrid Search (SQL + Vector)
+   - pgvector / Milvus
+   - Company data search
+
+10. AI EVALUATION & OBSERVABILITY
+    - Faithfulness check
+    - Relevancy check
+    - RAGAS / Spring AI utils
+
+11. AGENTIC WORKFLOWS
+    - Function Calling / Tool Use
+    - MCP (Model Context Protocol)
+    - AI triggers Java methods
