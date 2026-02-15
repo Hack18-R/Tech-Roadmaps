@@ -16,18 +16,7 @@
    * 'use strict' mode
    * Browser Console & Debugging Basics
 
-2. **Strings**
-
-   * String Basics
-   * String Methods: charAt, concat, includes, indexOf, slice, substring, toLowerCase, toUpperCase, split, replace, trim
-   * Template Literals (ES6)
-
-3. **Numbers (Math)**
-
-   * Number Basics
-   * Math Methods: round(), ceil(), floor(), max(), min(), random(), pow()
-
-4. **Functions & Execution Model**
+2. **Functions & Execution Model**
 
    * Function Declaration
    * Function Expression
@@ -46,12 +35,23 @@
    * Iterators & Generators
    * Event Loop & Microtask/Task Queue
 
-5. **Arrays**
+3. **Arrays**
 
    * Array Basics
    * Array Methods: push, pop, shift, unshift, splice, slice, concat, indexOf, includes, join
    * Array Iteration: forEach, map, filter, reduce, find, some, every
    * Sorting & Reversing: sort, reverse
+
+4. **Strings**
+
+   * String Basics
+   * String Methods: charAt, concat, includes, indexOf, slice, substring, toLowerCase, toUpperCase, split, replace, trim
+   * Template Literals (ES6)
+
+5. **Numbers (Math)**
+
+   * Number Basics
+   * Math Methods: round(), ceil(), floor(), max(), min(), random(), pow()
 
 6. **Objects**
 
@@ -61,6 +61,7 @@
    * Nested Objects
    * Shallow vs Deep Copy
    * Object Destructuring (ES6)
+
 
 7. **JavaScript Data Structures**
 
@@ -145,5 +146,6 @@
     * Debouncing & Throttling
     * Lazy Loading
     * Performance Optimization Techniques
+
 
 
