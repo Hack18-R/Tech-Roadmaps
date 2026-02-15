@@ -62,12 +62,12 @@
    * Shallow vs Deep Copy
    * Object Destructuring (ES6)
 
-
 7. **JavaScript Data Structures**
 
    * Primitives & Built-in Types: Number, String, Boolean, Null, Undefined, Symbol, BigInt
    * Core Structures: Arrays & Objects, Map & Set
-   * Advanced Structures / Algorithms: WeakMap & WeakSet, Typed Arrays, Linked List, Stack, Queue, Deque, Priority Queue, Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick)
+   * Advanced Structures : WeakMap & WeakSet, Typed Arrays, Linked List, Stack, Queue, Deque, Priority Queue.
+   * Sorting and Searching Algorithm.
 
 8. **Object-Oriented Programming (OOP)**
 
@@ -98,7 +98,7 @@
     * Event Handling: addEventListener, inline handlers
     * Event Bubbling & Capturing
     * Event Delegation
-    * Event Object: target → element that triggered the event, currentTarget → element on which the listener is attached
+    * Event Object
 
 11. **Asynchronous JavaScript**
 
@@ -146,6 +146,7 @@
     * Debouncing & Throttling
     * Lazy Loading
     * Performance Optimization Techniques
+
 
 
 
