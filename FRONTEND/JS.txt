@@ -12,6 +12,7 @@
    * Control Statements: if, else if, else, switch
    * Loops: for, while, do-while, for…in, for…of
    * Scope: global, function, block, lexical
+   * Window Object
    * 'use strict' mode
    * Browser Console & Debugging Basics
 
@@ -144,4 +145,5 @@
     * Debouncing & Throttling
     * Lazy Loading
     * Performance Optimization Techniques
+
 
